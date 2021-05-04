@@ -68,7 +68,7 @@ And one label to display result. On click of an operation button, respective ope
 
 ## [Complete Installation of Eclipse](https://telegra.ph/Complete-Installation-of-Eclipse-02-11)
 
-![Intro User Image](#)
+![Intro User Image](https://github.com/Realocity/JAVA_Practical/blob/main/assets/intro.png)
 
 ### Interesting things to try
 
